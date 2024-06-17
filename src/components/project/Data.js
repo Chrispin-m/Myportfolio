@@ -69,7 +69,7 @@ export const projectsData = [
     "Python",
     "Bash",
     "Css",
-    'HTML'
+    'HTML'],
     code: "https://github.com/Chrispin-m/flaskApi",
     demo: "https://github.com/Chrispin-m/flaskApi",
     image: four,
