@@ -122,7 +122,7 @@ const Header = () => {
               },
             }}
           >
-            Ronex Ondimu
+            iChrispin
           </Typography>
           <Box
             justifyContent="flex-end"
