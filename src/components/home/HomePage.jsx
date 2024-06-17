@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 import TypeAnimation from "./TypeAnimation";
 import HomeBottomPage from "./HomeBottomPage";
 import developer from "../../assets/developer.svg";
-import resumePdf from "../../assets/RonexOndimu.pdf";
+import resumePdf from "../../assets/ichrispin.pdf";
 import { Button, makeStyles } from "@material-ui/core";
 
  const useStyles = makeStyles((t) => ({
