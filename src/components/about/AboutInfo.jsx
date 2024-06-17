@@ -80,6 +80,18 @@ const AboutInfo = () => {
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
                 Action Games
               </li>
+               <li>
+                <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
+                Writing Poems
+              </li>
+               <li>
+                <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
+                Watching Football
+              </li>
+              <li>
+                <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
+                Puzzle Games
+              </li>
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
                 Yollow
