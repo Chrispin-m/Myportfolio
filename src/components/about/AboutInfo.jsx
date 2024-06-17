@@ -50,7 +50,7 @@ const AboutInfo = () => {
           <p style={{ textAlign: "justify" }}>
             Hi people, I am{" "}
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
-              Ronex Ondimu
+              Crispine Mwangi
             </span>{" "}
             from Nairobi,Kenya.
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
