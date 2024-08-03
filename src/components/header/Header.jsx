@@ -21,7 +21,7 @@ const pages = [
   { text: "About", href: "/about" },
   { text: "Projects", href: "/projects" },
   { text: "Contact", href: "/contact" },
-  { text: "Blogs", href: "https://comingsoon.medium.com/" },
+  { text: "Blogs", href: "https://ichrispindiary.vercel.app/" },
 ];
 const pageIcons = [
   HomeRoundedIcon,
